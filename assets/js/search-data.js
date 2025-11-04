@@ -476,6 +476,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/ignacio-labarca-figueroa", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0001-6116-5568", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
