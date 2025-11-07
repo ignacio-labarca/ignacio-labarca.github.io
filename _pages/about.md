@@ -25,9 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am currently a Postdoctoral Researcher at the Institute for Mathematical and Computational Engineering at Pontificia Universidad Católica de Chile (PUC).
+Hello! I am currently a Postdoctoral Researcher at the <a href='https://imc.uc.cl/'>Institute for Mathematical and Computational Engineering</a> at Pontificia Universidad Católica de Chile (PUC).
 
 My research interests lie in numerical analysis and computational methods. I focus on finite element and boundary element methods, with applications to the numerical simulation of acoustic and electromagnetic wave propagation.
+
+Before joining IMC, I was a Postdoctoral Researcher at the University of Innsbruck, where I worked with <a href='https://mat1.uibk.ac.at/heiko/'>Prof. Heiko Gimperlein</a>.
+
+In January 2024, I obtained my doctoral degree from ETH Zurich, under the supervision of <a href='https://math.ethz.ch/sam/the-institute/people/ralf-hiptmair.html'>Prof. Ralf Hiptmair</a>, titled <a href='https://www.research-collection.ethz.ch/entities/publication/fd07a539-2942-4297-a26d-34ef598efca3'>Coupled Boundary-Volume Integral Equations for Wave Propagation</a>.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 <!-- 
