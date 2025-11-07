@@ -2,17 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher at <a href='https://imc.uc.cl/'>IMC, PUC</a>.
 
 profile:
   align: right
-  image: me_fixed.jpg
+  image: foto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Campus San Joaquín,</p>
-    <p>Vicuña Mackenna 4860,</p>
-    <p>Macul, Región Metropolitana,</p>
-    <p>Chile</p>
+  e-mail: ignacio.labarca@uc.cl
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
