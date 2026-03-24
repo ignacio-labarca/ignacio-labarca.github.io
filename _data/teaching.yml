@@ -1,17 +1,41 @@
 - code: IIC3533
   title: Computación de Alto Rendimiento (High Performance Computing)
   institution: Pontificia Universidad Católica de Chile
-  semester: 2025-1
-  material:
-
-- code: IMT3870
-  title: Computación de Alto Rendimiento (High Performance Computing)
-  institution: Pontificia Universidad Católica de Chile
-  semester: 2025-1
+  semester: 2026-1
+  year: 2026
   material:
 
 - code: IMT2220
   title: Cálculo para Ciencia de Datos (Calculus for Data Science)
   institution: Pontificia Universidad Católica de Chile
+  semester: 2026-1
+  year: 2026
+  material:
+
+- code: IIC3533
+  title: Computación de Alto Rendimiento (High Performance Computing)
+  institution: Pontificia Universidad Católica de Chile
+  semester: 2025-2
+  year: 2025
+  material:
+
+- code: IMT2220
+  title: Cálculo para Ciencia de Datos (Calculus for Data Science)
+  institution: Pontificia Universidad Católica de Chile
+  semester: 2025-2
+  year: 2025
+  material:
+
+- code: IMT3870
+  title: Computación de Alto Rendimiento (High Performance Computing)
+  institution: Pontificia Universidad Católica de Chile
+  semester: 2025-2
+  year: 2025
+  material:
+
+- code: IIC3533
+  title: Computación de Alto Rendimiento (High Performance Computing)
+  institution: Pontificia Universidad Católica de Chile
   semester: 2025-1
+  year: 2025
   material:
