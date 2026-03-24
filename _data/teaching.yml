@@ -33,6 +33,13 @@
   year: 2025
   material:
 
+- code: MAT105
+  title: Cálculo Diferencial
+  institution: Universidad Adolfo Ibáñez
+  semester: 2025-1
+  year: 2025
+  material:
+
 - code: IIC3533
   title: Computación de Alto Rendimiento (High Performance Computing)
   institution: Pontificia Universidad Católica de Chile
