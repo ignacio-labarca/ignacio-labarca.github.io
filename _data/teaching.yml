@@ -1,6 +1,27 @@
 - code: IIC3533
   title: Computación de Alto Rendimiento (High Performance Computing)
   institution: Pontificia Universidad Católica de Chile
+  semester: 2026-2
+  year: 2026
+  material:
+
+- code: IMT3870
+  title: Computación de Alto Rendimiento (High Performance Computing)
+  institution: Pontificia Universidad Católica de Chile
+  semester: 2026-2
+  year: 2026
+  material:
+
+- code: IMT2112
+  title: Algoritmos Paralelos en Computación Científica (Parallel Algorithms for Scientific Computing)
+  institution: Pontificia Universidad Católica de Chile
+  semester: 2026-2
+  year: 2026
+  material:
+
+- code: IIC3533
+  title: Computación de Alto Rendimiento (High Performance Computing)
+  institution: Pontificia Universidad Católica de Chile
   semester: 2026-1
   year: 2026
   material:
